@@ -1,4 +1,4 @@
-# Class-Management-System-Windows-Application-
+# Class-Management-System-Windows-Application
 Class management system is an application by which a teacher can monitor his students easily. Here, a teacher can give attendance and marks to his students and at the same time, students can access those.
 
 ## Software Tools:
